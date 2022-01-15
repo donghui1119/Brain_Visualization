@@ -1,2 +1,16 @@
-# Brain_Visualization
-Visualizating  Human Brain
+# Brain Visualization
+
+## Volume
+
+
+
+
+
+## Surface
+
+
+
+
+
+
+## tractography
